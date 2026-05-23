@@ -1,8 +1,11 @@
 # 💫 About Me:
 
 US Citizen. open to 2027 new grad roles! contact me at: danielliao.job@gmail.com
+
 -Solving healthcare software problems and building iOS apps in Swift
+
 -I launched Asuranked: XXXX+ users in 3 days. Rate who's talented
+
 -Major in Computer Science, Minor in Dance
 
 <img width="1584" height="396" alt="Yellow Monochrome Photo LinkedIn Banner" src="https://github.com/user-attachments/assets/1309b26e-c3db-4518-b9b3-00699b55d6ae" />
