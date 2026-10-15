@@ -4,5 +4,5 @@ I'm a Software Engineering Intern with experience at PayPal, Mayo Clinic, Palant
 
 - launched Asuranked: XXXX+ visitors in 3 days. Rate who's talented
 
-- May 2027
+- Graduate May 2027
 
