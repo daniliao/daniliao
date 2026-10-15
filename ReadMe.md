@@ -1,6 +1,8 @@
-working on iOS mobile apps and making stuffs
+I'm a Software Engineering Intern with experience at PayPal, Mayo Clinic, Palantir and more
 
--launched Asuranked: XXXX+ users in 3 days. Rate who's talented
+- working on iOS mobile apps and making stuffs 
 
+- launched Asuranked: XXXX+ visitors in 3 days. Rate who's talented
 
+- May 2027
 
